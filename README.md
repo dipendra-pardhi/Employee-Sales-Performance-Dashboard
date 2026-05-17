@@ -162,8 +162,8 @@ Sales-Performance-Excel-Dashboard/
 **Dipendra Pardhi**  
 🎓 BBA Business Analytics Student  
 📍 Nagpur, India  
-🔗 LinkedIn: YOUR_LINKEDIN_LINK  
-📧 Email: YOUR_EMAIL  
+🔗 LinkedIn:  https://www.linkedin.com/in/dipendra-pardhi-93219b33b
+📧 Email: dipendrapardhi622@gmail.com
 
 ---
 
