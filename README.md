@@ -58,7 +58,7 @@ Created an interactive Excel dashboard using:
 # 📊 Dashboard Preview
 
 ## 📈 Sales Performance Dashboard
-![Sales Dashboard](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/excel-sales-dashboard.png)
+![Sales Dashboard](https://github.com/dipendra-pardhi/Employee-Sales-Performance-Dashboard/blob/main/Dashboard%20Image.png)
 
 ---
 
